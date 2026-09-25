@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I am a first-year CSE student passionate about understanding how software works at a fundamental level.  
+I am a Second-year CSE student passionate about understanding how software works at a fundamental level.  
 My goal is to master core computer science concepts before moving to advanced development.
 
 I believe in:
